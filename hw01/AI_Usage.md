@@ -1,0 +1,1 @@
+I used AI at the end of my work flow to proof read all my files, and determine my knowledge from my code's comments. sometimes its corrections were right, and in other cases it misunderstood my comments, which were mostly correct.
