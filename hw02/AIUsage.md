@@ -1,0 +1,1 @@
+I used ChatGPT to assist in the generation of Makefile and test/test_stats.c edge cases to help design, readme, as well as to confer to ensure understanding of specific lines of codes functions and overall idea, which in some cases it seemed to hallucinate and be useless; it repeated itself many times, feeling almost like beligerence.
