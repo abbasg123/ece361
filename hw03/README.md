@@ -1,0 +1,4 @@
+- Run commands from `hw03/`.
+- Build: `make`.
+- Test: `make test` (prints PASS/FAIL and a summary).
+- Clean: `make clean`.
