@@ -1,0 +1,7 @@
+# Event names, one per line.
+motion
+door
+door
+
+# This name is too long: 16 characters.
+1234567890123456
