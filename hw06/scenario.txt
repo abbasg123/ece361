@@ -1,0 +1,14 @@
+# Values hold until the next row; times are UTC.
+start 1791273600              # 2026-10-06 08:00:00
+
+# tick  temp   rh    switches
+0       21.0   40.0  0x0
+2       21.5   40.0  0x1      # Switch 0 pressed: LED 0 turns on.
+4       91.0   50.0  0x1      # Held: no new toggle.
+5       91.0   50.0  0x0
+6       91.0   50.0  0x1      # Pressed again: LED 0 turns off.
+8       22.0   45.0  0x3      # Switch 1 pressed while 0 stays held.
+10      22.0   45.0  0x0
+11      22.0   45.0  0xC      # Switches 2 and 3 pressed together.
+13      23.0   55.0  0x0
+14      23.0   55.0  0xF      # All four switches pressed.

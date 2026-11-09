@@ -1,0 +1,14 @@
+# Values hold until the next row.
+start 1791273600              # 2026-10-06 08:00:00 UTC
+
+# tick  temp   rh    switches
+0       21.0   40.0  0x0
+2       21.5   40.0  0x1      # Press switch 0.
+4       91.0   50.0  0x1      # Hold it.
+5       91.0   50.0  0x0
+6       91.0   50.0  0x1      # Press it again.
+8       22.0   45.0  0x3
+10      22.0   45.0  0x0
+11      22.0   45.0  0xC      # Press switches 2 and 3.
+13      23.0   55.0  0x0
+14      23.0   55.0  0xF
