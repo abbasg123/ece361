@@ -1,0 +1,6 @@
+balanced	0	balanced: 3 pairs, deepest 2
+deep	0	balanced: 9 pairs, deepest 9
+mismatch	1	line 1, column 2: found ')', expected ']'
+unexpected_close	1	line 1, column 1: found ')', nothing open
+unclosed	1	end of input: 2 still open, innermost '('
+empty	0	balanced: 0 pairs, deepest 0
