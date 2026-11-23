@@ -1,0 +1,1 @@
+I used ChatGPT Base to write the makefile, and walk through some example shine questions based on the homework pdf. 
